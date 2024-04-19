@@ -26,7 +26,7 @@ export function Icon(props: IIconProps) {
 const styles = StyleSheet.create({
   container: {
     height: 64,
-    width: 80,
+    width: 100,
     flexDirection: "column",
     justifyContent: "space-between",
     alignItems: "center",
