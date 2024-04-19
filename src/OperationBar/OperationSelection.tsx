@@ -33,19 +33,19 @@ interface Operations {
 const operations: Operations = {
   transform: [
     {
-      title: "Crop",
+      title: "Recortar",
       iconID: "crop",
       operationID: "crop",
     },
     {
-      title: "Rotate",
+      title: "Rotar",
       iconID: "rotate-90-degrees-ccw",
       operationID: "rotate",
     },
   ],
   adjust: [
     {
-      title: "Blur",
+      title: "Desenfocar",
       iconID: "blur-on",
       operationID: "blur",
     },
